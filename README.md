@@ -7,4 +7,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-e-h-u-l-21&show_icons=trueshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/M-e-h-u-l-21/M-e-h-u-l-21/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/M-e-h-u-l-21/M-e-h-u-l-21/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only.gif)
