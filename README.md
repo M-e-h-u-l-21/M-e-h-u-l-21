@@ -1,7 +1,7 @@
 # Hello there, I'm Mehul 👋
 
 - 🌱 I’m currently learning Android Dev and Python 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on Native Android Projects
 - 💬 Ask me about Android/Linux/Python
 - 📫 How to reach me: https://www.linkedin.com/in/mehul-gupta-930a09225/
 
