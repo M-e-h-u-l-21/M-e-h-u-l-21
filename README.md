@@ -1,4 +1,4 @@
-# Hello there, I'm Mehul 👋
+# Hello there, I'm Mehul 👋 
 
 - 🌱 I’m currently learning Android Dev and Python 
 - 👯 I’m looking to collaborate on Native Android Projects
