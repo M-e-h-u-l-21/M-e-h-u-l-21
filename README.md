@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, I'm Mehul 👋 </h1>
 <h3 align="center">Building innovative Android solutions with passion, from India ❤️</h3>
 
-- 🌱 I’m currently learning Android Dev and Python 
+- 🌱 I’m currently learning Android Dev and Machine Learning
 - 👯 I’m looking to collaborate on Native Android Projects
 - 💬 Ask me about Android/Linux/Python
 - 📫 How to reach me: https://www.linkedin.com/in/mehul-gupta-930a09225/ || mehulgupta2110@gmail.com
