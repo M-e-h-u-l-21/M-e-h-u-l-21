@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Dev and Machine Learning
 - 👯 I’m looking to collaborate on Native Android Projects
 - 💬 Ask me about Android/Linux/Python/Native Android Development
-- 📫 How to reach me: https://www.linkedin.com/in/mehul-gupta-930a09225/ || mehulgupta2110@gmail.com
+- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/mehul-gupta-930a09225/)  || mehulgupta2110@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
