@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,r,linux,androidstudio,firebase,tensorflow,figma,ps,js,reactgit&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,r,linux,androidstudio,firebase,tensorflow,figma,ps,js,react,git&perline=15)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-e-h-u-l-21&show_icons=true&locale=en&layout=compact&theme=radical" alt="M-e-h-u-l-21" align="left" >
